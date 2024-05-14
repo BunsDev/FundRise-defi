@@ -1,6 +1,6 @@
 # Welcome to FundRise - A Web3 Crowdfunding Platform!
 
-### [Website](https://gilded-douhua-6d8b6e.netlify.app/)
+### [Website](https://figma-clone-one-puce.vercel.app/)
 
 ![Web3 Crowdfunding Platform made with ThirWeb](https://user-images.githubusercontent.com/88309940/211824193-854878e1-0830-4325-9411-429e83e22a1f.png)
 
